@@ -62,45 +62,45 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-> *Open-source tools, ERP modules, data transformation engines, and financial analytics frameworks sorted descending by GitHub Star Count.*
+> *Open-source tools, ERP modules, data transformation engines, and financial analytics frameworks sorted descending by GitHub Stars_Count.*
 
-- **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers)  
+- **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers)  
   ⚡ Enterprise-grade data visualization and business intelligence platform commonly deployed to present consolidated group financial balance sheets, income statements, and variance analysis.
 
-- **[Odoo Multi-Company Accounting](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers)  
+- **[Odoo Multi-Company Accounting](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social)](https://github.com/odoo/odoo/stargazers)  
   ⚡ Comprehensive open-source ERP offering multi-company charts of accounts, automatic intercompany transactions, currency revaluation, and consolidated group financial balance roll-ups.
 
-- **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers)  
+- **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers)  
   ⚡ Easy-to-use open-source BI dashboarding platform used by finance and operations teams to build real-time financial consolidation reports across entity data warehouses.
 
-- **[ERPNext Multi-Company Consolidation](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers)  
+- **[ERPNext Multi-Company Consolidation](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social)](https://github.com/frappe/erpnext/stargazers)  
   ⚡ Fully open-source ERP framework with built-in consolidated financial statement generator, multi-currency ledger matching, and intercompany journal entries.
 
-- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social)](https://github.com/firefly-iii/firefly-iii/stargazers)  
   ⚡ Open-source personal and small-entity financial manager featuring multi-currency support, asset account tracking, and automated budget reconciliation.
 
-- **[Cube Semantic Layer](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social)](https://github.com/cube-js/cube/stargazers)  
+- **[Cube Semantic Layer](https://github.com/cube-js/cube)** [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social)](https://github.com/cube-js/cube/stargazers)  
   ⚡ Universal semantic layer for data warehouses to define consistent group KPIs, currency conversion formulas, and elimination metrics for downstream BI tools.
 
-- **[dbt-core Warehouse Consolidation](https://github.com/dbt-labs/dbt-core)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social)](https://github.com/dbt-labs/dbt-core/stargazers)  
+- **[dbt-core Warehouse Consolidation](https://github.com/dbt-labs/dbt-core)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social)](https://github.com/dbt-labs/dbt-core/stargazers)  
   ⚡ Open transformation engine used to build auditable, version-controlled consolidation pipelines (intercompany eliminations, currency conversion, NCI) directly in cloud data warehouses.
 
-- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social)](https://github.com/akaunting/akaunting/stargazers)  
+- **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social)](https://github.com/akaunting/akaunting/stargazers)  
   ⚡ Modular open-source online accounting software built for small businesses and multi-entity tracking with multi-currency invoice & expense management.
 
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social)](https://github.com/invoiceninja/invoiceninja/stargazers)  
   ⚡ Open-source invoicing, billing, and financial tracking solution with multi-company account switching and automated intercompany billing workflows.
 
-- **[Beancount Plain-Text Accounting](https://github.com/beancount/beancount)** [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social)](https://github.com/beancount/beancount/stargazers)  
+- **[Beancount Plain-Text Accounting](https://github.com/beancount/beancount)** [![GitHub_Stars](https://img.shields.io/github/stars/beancount/beancount?style=social)](https://github.com/beancount/beancount/stargazers)  
   ⚡ Command-line double-entry accounting system with multi-currency tracking, custom financial modeling, and precise transaction roll-ups.
 
-- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social)](https://github.com/killbill/killbill/stargazers)  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social)](https://github.com/killbill/killbill/stargazers)  
   ⚡ Open-source subscription billing and payment management platform supporting multi-tenant financial transaction routing and group revenue accounting.
 
-- **[GnuCash](https://github.com/gnucash/gnucash)** [![GitHub stars](https://img.shields.io/github/stars/gnucash/gnucash?style=social)](https://github.com/gnucash/gnucash/stargazers)  
+- **[GnuCash](https://github.com/gnucash/gnucash)** [![GitHub_Stars](https://img.shields.io/github/stars/gnucash/gnucash?style=social)](https://github.com/gnucash/gnucash/stargazers)  
   ⚡ Desktop double-entry accounting software featuring multi-currency support, trial balance reports, and multi-entity account trees.
 
-- **[Konsolidat (Open EPM Engine)](https://github.com/grynn-in/konsolidat)** [![GitHub stars](https://img.shields.io/github/stars/grynn-in/konsolidat?style=social)](https://github.com/grynn-in/konsolidat/stargazers)  
+- **[Konsolidat (Open EPM Engine)](https://github.com/grynn-in/konsolidat)** [![GitHub_Stars](https://img.shields.io/github/stars/grynn-in/konsolidat?style=social)](https://github.com/grynn-in/konsolidat/stargazers)  
   ⚡ Dedicated open-source Enterprise Performance Management (EPM) engine focused explicitly on multi-entity consolidation (FX translation, intercompany elimination matrices, NCI, variance analysis).
 
 ---
